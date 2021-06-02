@@ -1,4 +1,4 @@
-# FinalProject_KHDL
+FinalProject_KHDL
 
 Thành viên:
     1. Phạm Thị Hoài Hiền (18120178): nick github Hien-Hirune
