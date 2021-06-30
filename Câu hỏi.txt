@@ -18,3 +18,9 @@
 16. Mối liên hệ giữa mức lương và quy mô cty (cùng 1 vị trí)
 
 Note để nhớ :v : Tiền xử lý tính sẵn mức lương trung bình, doanh thu trung bình từng row (thay vì để khoảng)
+
+1 - Mức lương trung bình của từng job là bao nhiêu? Mức lương cho Senior data là bao nhiêu?
+2 - Chọn 1 lĩnh vực chiếm tỉ lệ cao nhất trong dataset, đưa ra top 3 nhu cầu nhân lực (jobs) của lĩnh vực đó
+3 - Location nào tuyển dụng nhiều vị trí nhất?
+4 - Xem công ty nào có quy mô lớn nhất trong mỗi khu vực (quy mô: doanh thu, sl nhân viên, năm thành lập, sl job tuyển dụng). Có phải công ty càng lâu năm thì quy mô càng lớn không?
+5 - Lĩnh vực nào có mức lương trung bình (trên tất cả job) cao nhất và thấp nhất?
