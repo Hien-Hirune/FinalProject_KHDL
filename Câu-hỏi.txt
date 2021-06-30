@@ -1,0 +1,15 @@
+1. Có bn job đạt rating 5.0?
+2. Mức lương trung bình là bn?
+3. Nơi tuyển dụng thường ở đâu? (location)
+4. Cty nào tuyển nhiều nhất?
+5. Quy mô cty tuyển vị trí này ntn? (về lợi nhuận, sl nhân viên và năm thành lập, đối thủ cạnh tranh)
+6. Các lĩnh vực cần tuyển vị trí này?
+7. Vị trí này có dễ dàng apply k?
+8. Liệt kê ra các vị trí tuyển (value_counts) (nhớ tiền xử lí)
+
+9. Xem biểu đồ nhu cầu nhân lượng cần trong lĩnh vực kinh tế  / IT or something like that :v coi coi trong lĩnh vực đó ng ta cần vị trí nào nhiều nhất hoặc là đưa ra top 3
+10. Tìm ra những yếu tố nào tác động tới rating của công ty
+11. Mức lương trung bình từng job (trung bình trên tất cả công ty tuyển job đó)
+12. Xem company nào quy mô lớn nhất trong mỗi lĩnh vực
+
+Note để nhớ :v : Tiền xử lý tính sẵn mức lương trung bình, doanh thu trung bình từng row (thay vì để khoảng)
