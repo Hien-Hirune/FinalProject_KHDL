@@ -10,11 +10,11 @@
 
 ### Dataset: Data Engineer Jobs from Kaggle
 
-Dataset `Data Engineer Jobs` là bộ dữ liệu về việc làm Data Engineer và một số vị trí liên quan. 
+Dataset `Data Engineer Jobs` là bộ dữ liệu về việc làm Data Engineer và một số việc làm IT khác ở Mỹ. 
 
 **Link Kaggle lấy dữ liệu: https://www.kaggle.com/andrewmvd/data-engineer-jobs**
 
-Datatset này được tạo bởi `Picklesueat` và nó chứa hơn 2500 công việc liên quan vị trí Data Engineer.
+Datatset này được tạo bởi `Picklesueat` và nó chứa hơn 2500 công việc IT, chiếm đa số trong bộ dữ liệu này là vị trí `Data Engineer`.
 
 Dataset gồm có 2528 dòng và 15 cột.
 
