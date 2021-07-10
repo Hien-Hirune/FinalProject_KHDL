@@ -51,4 +51,4 @@
 ## Tài liệu tham khảo
 - https://www.kaggle.com/rohitsahoo/data-engineer-job-analysis
 - https://www.kaggle.com/samruddhim/analysis-of-data-engineer-jobs
-- Slide, demo và video bài giảng môn LTKHDL - thầy Kiên
+- Slide, demo và video bài giảng môn LTKHDL - thầy Trần Trung Kiên
