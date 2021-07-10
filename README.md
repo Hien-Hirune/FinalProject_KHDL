@@ -8,7 +8,7 @@
 
 ## Mô tả đồ án
 
-**Dataset: Data Engineer Jobs from Kaggle
+### Dataset: Data Engineer Jobs from Kaggle
 
 Dataset `Data Engineer Jobs` là bộ dữ liệu về việc làm Data Engineer và một số vị trí liên quan. 
 
@@ -18,7 +18,7 @@ Datatset này được tạo bởi `Picklesueat` và nó chứa hơn 2500 công 
 
 Dataset gồm có 2528 dòng và 15 cột.
 
-**Các câu hỏi cần trả lời
+### Các câu hỏi cần trả lời
 
 *1. Mức lương trung bình của từng job là bao nhiêu? Mức lương cho Senior data là bao nhiêu?*
 -> Phục vụ cho việc chọn hướng phát triển nghề.
